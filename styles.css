@@ -1,0 +1,11 @@
+.float-right {
+    float: right;
+    margin: 10px;
+    width: 200px; /* Adjust size as needed */
+    height: auto;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+
